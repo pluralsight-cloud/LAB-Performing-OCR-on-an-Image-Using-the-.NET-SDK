@@ -8,7 +8,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LinuxAcademy.Azure.AI.OpticalCharacterRecognition
+namespace Pluralsight.Azure.AI.OpticalCharacterRecognition
 {
     class Program
     {

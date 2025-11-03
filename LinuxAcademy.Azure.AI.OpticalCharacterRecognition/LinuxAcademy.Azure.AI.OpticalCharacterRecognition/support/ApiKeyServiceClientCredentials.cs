@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace LinuxAcademy.Azure.AI.OpticalCharacterRecognition.support
+namespace Pluralsight.Azure.AI.OpticalCharacterRecognition.support
 {
     public class ApiKeyServiceClientCredentials : ServiceClientCredentials
     {
