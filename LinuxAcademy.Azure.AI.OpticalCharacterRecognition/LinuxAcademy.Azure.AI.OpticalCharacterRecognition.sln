@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinuxAcademy.Azure.AI.OpticalCharacterRecognition", "LinuxAcademy.Azure.AI.OpticalCharacterRecognition\LinuxAcademy.Azure.AI.OpticalCharacterRecognition.csproj", "{BFAF6CB9-BC60-4068-A903-6D85256E7F5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pluralsight.Azure.AI.OpticalCharacterRecognition", "pluralsight.Azure.AI.OpticalCharacterRecognition\pluralsight.Azure.AI.OpticalCharacterRecognition.csproj", "{BFAF6CB9-BC60-4068-A903-6D85256E7F5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

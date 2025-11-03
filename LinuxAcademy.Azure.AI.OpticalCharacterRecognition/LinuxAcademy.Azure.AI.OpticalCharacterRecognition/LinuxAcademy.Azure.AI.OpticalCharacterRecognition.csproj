@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{BFAF6CB9-BC60-4068-A903-6D85256E7F5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LinuxAcademy.Azure.AI.OpticalCharacterRecognition</RootNamespace>
-    <AssemblyName>LinuxAcademy.Azure.AI.OpticalCharacterRecognition</AssemblyName>
+    <RootNamespace>pluralsight.Azure.AI.OpticalCharacterRecognition</RootNamespace>
+    <AssemblyName>pluralsight.Azure.AI.OpticalCharacterRecognition</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
